@@ -1,3 +1,4 @@
+<img src="assets/banner.png" width="100%">
 <h1 align="center">Hi 👋, I'm Harshita Gupta</h1>
 
 <h3 align="center">
