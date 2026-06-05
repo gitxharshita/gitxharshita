@@ -51,9 +51,6 @@ Implemented:
 ✔ Replication  
 ✔ Fault tolerance
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitxharshita&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitxharshita)
 
 
 ## 📫 Connect
