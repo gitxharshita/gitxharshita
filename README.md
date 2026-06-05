@@ -54,5 +54,5 @@ Implemented:
 
 ## 📫 Connect
 
-LinkedIn: your-link
-Portfolio: your-link
+LinkedIn: https://www.linkedin.com/in/harshitagupta-dataengg/
+Portfolio: https://gitxharshita.github.io/portfolio/
